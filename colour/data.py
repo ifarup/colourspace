@@ -363,7 +363,7 @@ class Gamut:
 
 def resource_path(relative):
     """
-    Extend relative path to full path (mainly for PyInstaller integration).
+    Extend relative path to full path (mainly for setuptools integration).
 
     Parameters
     ----------
