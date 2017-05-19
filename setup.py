@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="colourspace",
-    version="1.0.1.dev",
+    version="1.0.2",
     packages=['colour'],
     include_package_data=True,
     package_data={'colour': ['colour_data/*',
