@@ -1,7 +1,9 @@
 colour
 ======
 
-colour is a Python package for colour metrics and colour space transforms. Many common colour spaces and colour metrics are available, and more are continuously added. A description of the design of the computational framework is available as Farup I. (2016) A computational framework for colour metrics and colour space transforms. _PeerJ Computer Science_ 2:e48 https://doi.org/10.7717/peerj-cs.48
+colour is a python package for colour metrics and colour space transforms. Many common colour spaces and colour metrics are available, and more are continuously added. A description of the design of the computational framework is available as Farup I. (2016) A computational framework for colour metrics and colour space transforms. _PeerJ Computer Science_ 2:e48 https://doi.org/10.7717/peerj-cs.48
+
+This project is discontinued. Further development as a restructured and expanded python package for colour science and image processing is available as https://github.com/ifarup/colourlab
 
 Modules
 -------
